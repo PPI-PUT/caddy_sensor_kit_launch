@@ -1,1 +1,1 @@
-# sample_sensor_kit_launch
+# caddy_sensor_kit_launch
