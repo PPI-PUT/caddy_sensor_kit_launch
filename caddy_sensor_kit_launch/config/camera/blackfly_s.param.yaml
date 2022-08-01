@@ -1,0 +1,21 @@
+/**:
+  ros__parameters:
+    debug: False
+    compute_brightness: True
+    dump_node_map: False
+    gain_auto: 'Continuous'
+    exposure_auto: 'Continuous'
+    always_publish: True
+    frame_rate_auto: 'On'
+    frame_rate: 55.0
+    frame_rate_enable: False
+    trigger_mode: 'Off'
+    chunk_mode_active: False
+    chunk_selector_frame_id: 'FrameID'
+    chunk_enable_frame_id: True
+    chunk_selector_exposure_time: 'ExposureTime'
+    chunk_enable_exposure_time: True
+    chunk_selector_gain: 'Gain'
+    chunk_enable_gain: True
+    chunk_selector_timestamp: 'Timestamp'
+    chunk_enable_timestamp: True

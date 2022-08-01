@@ -1,0 +1,43 @@
+sensor_kit_base_link:
+  blackfly_s:
+    x: 2.3
+    y: 0.0
+    z: -0.06
+    roll: 0.0
+    pitch: 0.0
+    yaw: 0.0
+  lidar_sensor_front:
+    x: 2.245
+    y: 0.0
+    z: 0.05218
+    roll: 0.0
+    pitch: 0.0
+    yaw: 3.14159
+  lidar_sensor_rear:
+    x: 0.055
+    y: 0.0
+    z: 0.05218
+    roll: 0.0
+    pitch: 0.0
+    yaw: 0.0
+  gnss_front_link:
+    x: 1.735
+    y: 0.0
+    z: 0.088
+    roll: 0.0
+    pitch: 0.0
+    yaw: 0.0
+  gnss_rear_link:
+    x: 0.945
+    y: 0.0
+    z: 0.088
+    roll: 0.0
+    pitch: 0.0
+    yaw: 0.0
+  imu_link:
+    x: 0.945
+    y: 0.0
+    z: -0.045
+    roll: 0.0
+    pitch: 0.0
+    yaw: 0.0
